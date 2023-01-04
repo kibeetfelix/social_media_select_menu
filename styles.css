@@ -55,3 +55,7 @@ body {
 .social-list li .fa-brands {
     margin: 0 10px;
 }
+
+.rotate .fa-solid {
+    transform: rotate(180deg);
+}
