@@ -59,3 +59,7 @@ body {
 .rotate .fa-solid {
     transform: rotate(180deg);
 }
+
+.hide {
+    visibility: hidden;
+}
