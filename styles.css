@@ -23,3 +23,9 @@ body {
 .menu .fa-solid {
     transition: transform .5s;
 }
+
+.menu p {
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+}
