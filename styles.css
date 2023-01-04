@@ -48,5 +48,6 @@ body {
 
 .social-list li:hover {
     background: darkgray;
+    padding-left: 10px;
     border-radius: 5px;
 }
