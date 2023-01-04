@@ -45,3 +45,8 @@ body {
     cursor: pointer;
     transition: padding .2s linear;
 }
+
+.social-list li:hover {
+    background: darkgray;
+    border-radius: 5px;
+}
