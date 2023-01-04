@@ -7,3 +7,15 @@ body {
     justify-content: center;
     background: linear-gradient(135deg, purple 20%, orange 80%);
 }
+
+.menu {
+    background: whitesmoke;
+    /* opacity: .3; */
+    width: 300px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    cursor: pointer;
+}
