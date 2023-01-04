@@ -38,3 +38,10 @@ body {
     list-style-type: none;
     border-radius: 5px;
 }
+
+.social-list li {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: padding .2s linear;
+}
