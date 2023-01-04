@@ -29,3 +29,12 @@ body {
     display: flex;
     align-items: center;
 }
+
+.social-list {
+    background: whitesmoke;
+    /* opacity: .3; */
+    width: 300px;
+    padding: 10px;
+    list-style-type: none;
+    border-radius: 5px;
+}
